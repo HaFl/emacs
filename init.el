@@ -162,3 +162,6 @@
                     :foreground "Black"
                     :background "DarkOrange"
                     :box nil)
+
+;; best font ever
+(set-default-font "Monaco 11")
